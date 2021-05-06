@@ -19,6 +19,6 @@ from PIL import Image
 from IPython.display import Image```
 ```
 ## Contributing
-This is a Public repository managed by Shubham Jain, Rajeev Sharma, Raj Kumar Surana
+This is a Public repository managed by Shubham Jain.
 
 Please make sure to update tests as appropriate.
